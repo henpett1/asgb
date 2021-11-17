@@ -8,16 +8,18 @@ Just add your token and webhooks to diffrent channels wherever you want.
 # Instalation
 
 **Windows:**
-Run the install.bat (make sure to have nodejs installed).\n
-Make sure all the correct webhook id's etc are there and your bots token.\n
-Run the bot with the run.bat.\n
-**linux:**\n
-Run the command `npm i`.\n
-Make sure all the correct webhook id's etc are there and your bots token.\n
-Run the bot with `node index.js`.\n
-**mac OS:**\n
-WHY...\n
-Follow linux tutorial\n
+Run the install.bat (make sure to have nodejs installed).
+Make sure all the correct webhook id's etc are there and your bots token.
+Run the bot with the run.bat.
 
-# For any questions join my discord server:\n
+**linux:**
+Run the command `npm i`.
+Make sure all the correct webhook id's etc are there and your bots token.
+Run the bot with `node index.js`.
+
+**mac OS:**
+WHY...
+Follow linux tutorial
+
+# For any questions join my discord server:
 https://discord.gg/mNadRbHDhy
